@@ -1,6 +1,6 @@
 #Tejpal Ramdas and Richard Wong; 7/18/19; FinTechFocus Wells Fargo
 
-#Display stock info nd provide info on returns based on user input
+#Displays online stock broker with lowest cost depending on intial expected trade.
 
 # csv file for data, parse for dictionaries
 stockBrokers = {
